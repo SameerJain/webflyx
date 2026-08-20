@@ -1,0 +1,55 @@
+[33m104f20c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m refs/remotes/origin/main@{0}: update by push
+[33m104f20c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m refs/heads/main@{0}: reset: moving to 104f20c
+[33m104f20c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to 104f20c
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{1}: checkout: moving from update_dune to main
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{2}: reset: moving to ed2536bb21151b3106fc13d323796a88c0c9f40e
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m refs/heads/update_dune@{0}: reset: moving to ed2536bb21151b3106fc13d323796a88c0c9f40e
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{3}: reset: moving to ed2536bb21151b3106fc13d323796a88c0c9f40e
+[33m3bddac5[m refs/heads/update_dune@{1}: commit: J: fake change
+[33m3bddac5[m HEAD@{4}: commit: J: fake change
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{5}: checkout: moving from main to update_dune
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m refs/heads/main@{1}: rebase (finish): refs/heads/main onto ed2536bb21151b3106fc13d323796a88c0c9f40e
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{6}: rebase (finish): returning to refs/heads/main
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{7}: rebase (start): checkout update_dune
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m refs/heads/update_dune@{2}: commit: I: Second commit
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{8}: commit: I: Second commit
+[33mc94c5e8[m refs/heads/update_dune@{3}: commit: H: First commit for run rebase
+[33mc94c5e8[m HEAD@{9}: commit: H: First commit for run rebase
+[33m498ae90[m refs/heads/update_dune@{4}: rebase (finish): refs/heads/update_dune onto 498ae90ced4a33f20c284b8d83d4a62a3b5f19d4
+[33m498ae90[m HEAD@{10}: rebase (finish): returning to refs/heads/update_dune
+[33m498ae90[m HEAD@{11}: rebase (start): checkout main
+[33m2d3c2c9[m refs/heads/update_dune@{5}: branch: Created from 2d3c2c98ca9fdf46b329cc858b64b0d4506da967
+[33m2d3c2c9[m HEAD@{12}: checkout: moving from main to update_dune
+[33m498ae90[m refs/heads/main@{2}: merge update_titles: Merge made by the 'ort' strategy.
+[33m498ae90[m HEAD@{13}: merge update_titles: Merge made by the 'ort' strategy.
+[33mcf4e873[m HEAD@{14}: checkout: moving from update_titles to main
+[33m104f20c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{15}: commit: G: changed titles
+[33m2d3c2c9[m HEAD@{16}: checkout: moving from update_dune to update_titles
+[33m2d3c2c9[m HEAD@{17}: Branch: renamed refs/heads/update_dine to refs/heads/update_dune
+[33m2d3c2c9[m HEAD@{19}: checkout: moving from main to update_dine
+[33mcf4e873[m refs/heads/main@{3}: commit (amend): F: Marging Branch
+[33mcf4e873[m HEAD@{20}: commit (amend): F: Marging Branch
+[33md2fc5b6[m refs/heads/main@{4}: merge add_classics: Merge made by the 'ort' strategy.
+[33md2fc5b6[m HEAD@{21}: merge add_classics: Merge made by the 'ort' strategy.
+[33meba53c8[m HEAD@{22}: checkout: moving from main to main
+[33meba53c8[m refs/heads/main@{5}: commit: E: made changes
+[33meba53c8[m HEAD@{23}: commit: E: made changes
+[33m6b78249[m HEAD@{24}: checkout: moving from add_classics to main
+[33m2d3c2c9[m HEAD@{25}: commit: D: new file
+[33m6b78249[m HEAD@{26}: checkout: moving from add_classics to add_classics
+[33m6b78249[m HEAD@{27}: checkout: moving from main to add_classics
+[33m6b78249[m HEAD@{28}: checkout: moving from add_classics to main
+[33m6b78249[m HEAD@{29}: Branch: renamed refs/heads/add-classics to refs/heads/add_classics
+[33m6b78249[m HEAD@{31}: checkout: moving from main to add-classics
+[33m6b78249[m refs/heads/main@{6}: Branch: renamed refs/heads/master to refs/heads/main
+[33m6b78249[m HEAD@{32}: Branch: renamed refs/heads/master to refs/heads/main
+[33m6b78249[m refs/heads/main@{7}: commit: C: add quotes
+[33m6b78249[m HEAD@{34}: commit: C: add quotes
+[33m0cf9019[m refs/heads/main@{8}: commit (amend): B: add titles
+[33m0cf9019[m HEAD@{35}: commit (amend): B: add titles
+[33m025a811[m refs/heads/main@{9}: commit: add titles
+[33m025a811[m HEAD@{36}: commit: add titles
+[33mb513f1d[m refs/heads/main@{10}: commit (amend): A: add contents.md
+[33mb513f1d[m HEAD@{37}: commit (amend): A: add contents.md
+[33m07d0a57[m refs/heads/main@{11}: commit (initial): Add contents.md
+[33m07d0a57[m HEAD@{38}: commit (initial): Add contents.md
