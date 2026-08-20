@@ -1,0 +1,25 @@
+[33m104f20c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m refs/remotes/origin/main@{0}: update by push
+[33m104f20c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m refs/heads/main@{0}: reset: moving to 104f20c
+[33m104f20c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to 104f20c
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{1}: checkout: moving from update_dune to main
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{2}: reset: moving to ed2536bb21151b3106fc13d323796a88c0c9f40e
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m refs/heads/update_dune@{0}: reset: moving to ed2536bb21151b3106fc13d323796a88c0c9f40e
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{3}: reset: moving to ed2536bb21151b3106fc13d323796a88c0c9f40e
+[33m3bddac5[m refs/heads/update_dune@{1}: commit: J: fake change
+[33m3bddac5[m HEAD@{4}: commit: J: fake change
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{5}: checkout: moving from main to update_dune
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m refs/heads/main@{1}: rebase (finish): refs/heads/main onto ed2536bb21151b3106fc13d323796a88c0c9f40e
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{6}: rebase (finish): returning to refs/heads/main
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{7}: rebase (start): checkout update_dune
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m refs/heads/update_dune@{2}: commit: I: Second commit
+[33med2536b[m[33m ([m[1;32mupdate_dune[m[33m)[m HEAD@{8}: commit: I: Second commit
+[33mc94c5e8[m refs/heads/update_dune@{3}: commit: H: First commit for run rebase
+[33mc94c5e8[m HEAD@{9}: commit: H: First commit for run rebase
+[33m498ae90[m refs/heads/update_dune@{4}: rebase (finish): refs/heads/update_dune onto 498ae90ced4a33f20c284b8d83d4a62a3b5f19d4
+[33m498ae90[m HEAD@{10}: rebase (finish): returning to refs/heads/update_dune
+[33m498ae90[m HEAD@{11}: rebase (start): checkout main
+[33m2d3c2c9[m refs/heads/update_dune@{5}: branch: Created from 2d3c2c98ca9fdf46b329cc858b64b0d4506da967
+[33m2d3c2c9[m HEAD@{12}: checkout: moving from main to update_dune
+[33m498ae90[m refs/heads/main@{2}: merge update_titles: Merge made by the 'ort' strategy.
+[33m498ae90[m HEAD@{13}: merge update_titles: Merge made by the 'ort' strategy.
+[33mcf4e873[m HEAD@{14}: checkout: moving from update_titles to main
